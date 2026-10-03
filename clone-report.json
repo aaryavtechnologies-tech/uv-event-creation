@@ -1,0 +1,242 @@
+{
+  "source": "https://uv-vision-crafted.lovable.app/",
+  "downloaded": 58,
+  "bytes": 11787080,
+  "failures": [
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/weddings-c_dXRcea.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/Reveal-DBFY4PHs.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/PageHero-DSXrE-if.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/sparkles-B4ZnG9Na.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/heart-BvGZ4M8k.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/services-DtgNIxMu.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/circle-check-D6lESEYW.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/arrow-right-B6y7Spty.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/gallery-BS2-JgVb.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/corporate-events-DBXZd0Qh.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/contact-mY2HO309.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/send-CIyEOUjH.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/book-Ns7YdmRl.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/about-BiOX3MJz.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/award-MAUH8Kx5.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/index-B1gU_T-2.js",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "skipped": [],
+  "remote_resources": [
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/weddings-c_dXRcea.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/Reveal-DBFY4PHs.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/PageHero-DSXrE-if.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/sparkles-B4ZnG9Na.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/heart-BvGZ4M8k.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/services-DtgNIxMu.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/circle-check-D6lESEYW.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/arrow-right-B6y7Spty.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/gallery-BS2-JgVb.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/corporate-events-DBXZd0Qh.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/contact-mY2HO309.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/send-CIyEOUjH.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/book-Ns7YdmRl.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/about-BiOX3MJz.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/award-MAUH8Kx5.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    },
+    {
+      "url": "https://uv-vision-crafted.lovable.app/assets/assets/index-B1gU_T-2.js",
+      "referenced_by": [
+        "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js"
+      ]
+    }
+  ],
+  "settings": {
+    "remove_bolt": true,
+    "remove_lovable": true,
+    "meta_pixel": null,
+    "workers": 8,
+    "retries": 2,
+    "max_files": 2000,
+    "max_mb": 500
+  },
+  "file_limit_reached": false,
+  "page_limit": 50,
+  "files": {
+    "https://uv-vision-crafted.lovable.app/": "index.html",
+    "https://uv-vision-crafted.lovable.app/__l5e/assets-v1/f7f627ef-1d1d-409d-a4f9-f7d46c54fac1/uv-logo.png": "__l5e/assets-v1/f7f627ef-1d1d-409d-a4f9-f7d46c54fac1/uv-logo.png",
+    "https://uv-vision-crafted.lovable.app/assets/hero-mandap-BgJ81Wz5.jpg": "assets/hero-mandap-BgJ81Wz5.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/styles-BWBesirc.css": "assets/styles-BWBesirc.css",
+    "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap": "assets/_external/fonts.googleapis.com/af38e1da3489ce3fb18a.css",
+    "https://uv-vision-crafted.lovable.app/assets/index-DBDQzU9J.js": "assets/index-DBDQzU9J.js",
+    "https://uv-vision-crafted.lovable.app/assets/index-B1gU_T-2.js": "assets/index-B1gU_T-2.js",
+    "https://uv-vision-crafted.lovable.app/assets/Reveal-DBFY4PHs.js": "assets/Reveal-DBFY4PHs.js",
+    "https://uv-vision-crafted.lovable.app/assets/arrow-right-B6y7Spty.js": "assets/arrow-right-B6y7Spty.js",
+    "https://uv-vision-crafted.lovable.app/assets/award-MAUH8Kx5.js": "assets/award-MAUH8Kx5.js",
+    "https://uv-vision-crafted.lovable.app/assets/sparkles-B4ZnG9Na.js": "assets/sparkles-B4ZnG9Na.js",
+    "https://uv-vision-crafted.lovable.app/assets/heart-BvGZ4M8k.js": "assets/heart-BvGZ4M8k.js",
+    "https://uv-vision-crafted.lovable.app/assets/circle-check-D6lESEYW.js": "assets/circle-check-D6lESEYW.js",
+    "https://uv-vision-crafted.lovable.app/~flock.js": "~flock.js",
+    "https://uv-vision-crafted.lovable.app/about": "pages/1d832d4ae48af29fa824.html",
+    "https://uv-vision-crafted.lovable.app/services": "pages/9197d85effacea24a0d0.html",
+    "https://uv-vision-crafted.lovable.app/weddings": "pages/85cd38e0bdd8a976b4ba.html",
+    "https://uv-vision-crafted.lovable.app/corporate-events": "pages/1ddf5b4aacfeff0128ea.html",
+    "https://uv-vision-crafted.lovable.app/gallery": "pages/767d51f81eba1b6bb52a.html",
+    "https://uv-vision-crafted.lovable.app/book": "pages/c22ee69728ef03c9f485.html",
+    "https://uv-vision-crafted.lovable.app/contact": "pages/ed442a79e1e642008cbf.html",
+    "https://uv-vision-crafted.lovable.app/assets/decor-DoCnQpmR.jpg": "assets/decor-DoCnQpmR.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/artists-CZiZAskH.jpg": "assets/artists-CZiZAskH.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/lighting--8STLD_F.jpg": "assets/lighting--8STLD_F.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/catering-CL449kyj.jpg": "assets/catering-CL449kyj.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/destination-CtAXNYp1.jpg": "assets/destination-CtAXNYp1.jpg",
+    "https://uv-vision-crafted.lovable.app/__l5e/assets-v1/7c914c1c-00c9-4a4e-8ade-810a50f742ef/couple.jpg": "__l5e/assets-v1/7c914c1c-00c9-4a4e-8ade-810a50f742ef/couple.jpg",
+    "https://uv-vision-crafted.lovable.app/__l5e/assets-v1/6ae4f978-0126-4e99-b04b-18892e24cc70/bride.jpg": "__l5e/assets-v1/6ae4f978-0126-4e99-b04b-18892e24cc70/bride.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/haldi-CQ6syPII.jpg": "assets/haldi-CQ6syPII.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/reception-BU86X6Zv.jpg": "assets/reception-BU86X6Zv.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/bridal-entry-DKxfzcai.jpg": "assets/bridal-entry-DKxfzcai.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/mehendi-BSDrtGQa.jpg": "assets/mehendi-BSDrtGQa.jpg",
+    "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86GnM.ttf": "assets/_external/fonts.gstatic.com/bb8f3c3b0ca40380ad47.ttf",
+    "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf": "assets/_external/fonts.gstatic.com/75407d22188550d679e0.ttf",
+    "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9GnM.ttf": "assets/_external/fonts.gstatic.com/705776b6237d1fd4dec3.ttf",
+    "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9GnM.ttf": "assets/_external/fonts.gstatic.com/a9565983a6247cbcca8d.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf": "assets/_external/fonts.gstatic.com/ee9558be9f8a4d750ce4.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf": "assets/_external/fonts.gstatic.com/a699af1dea30b799318e.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf": "assets/_external/fonts.gstatic.com/e45972c7e9f24dc39084.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf": "assets/_external/fonts.gstatic.com/87e867b52640b3b397a9.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf": "assets/_external/fonts.gstatic.com/6f49e1b28bce7339f484.ttf",
+    "https://uv-vision-crafted.lovable.app/assets/weddings-c_dXRcea.js": "assets/weddings-c_dXRcea.js",
+    "https://uv-vision-crafted.lovable.app/assets/services-DtgNIxMu.js": "assets/services-DtgNIxMu.js",
+    "https://uv-vision-crafted.lovable.app/assets/gallery-BS2-JgVb.js": "assets/gallery-BS2-JgVb.js",
+    "https://uv-vision-crafted.lovable.app/assets/corporate-events-DBXZd0Qh.js": "assets/corporate-events-DBXZd0Qh.js",
+    "https://uv-vision-crafted.lovable.app/assets/contact-mY2HO309.js": "assets/contact-mY2HO309.js",
+    "https://uv-vision-crafted.lovable.app/assets/book-Ns7YdmRl.js": "assets/book-Ns7YdmRl.js",
+    "https://uv-vision-crafted.lovable.app/assets/about-BiOX3MJz.js": "assets/about-BiOX3MJz.js",
+    "https://uv-vision-crafted.lovable.app/assets/PageHero-DSXrE-if.js": "assets/PageHero-DSXrE-if.js",
+    "https://uv-vision-crafted.lovable.app/assets/founder-ujala-r7FLUc0Y.jpg": "assets/founder-ujala-r7FLUc0Y.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/founder-vishal-BvaZ5PpM.jpg": "assets/founder-vishal-BvaZ5PpM.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/corporate-BHJzNXd5.jpg": "assets/corporate-BHJzNXd5.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/photography-DKYY2tNZ.jpg": "assets/photography-DKYY2tNZ.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/hospitality-CBXnA6It.jpg": "assets/hospitality-CBXnA6It.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/branding-CZM-ukTM.jpg": "assets/branding-CZM-ukTM.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/product-launch-Bomc7U2X.jpg": "assets/product-launch-Bomc7U2X.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/awards-Rn67wLof.jpg": "assets/awards-Rn67wLof.jpg",
+    "https://uv-vision-crafted.lovable.app/assets/send-CIyEOUjH.js": "assets/send-CIyEOUjH.js"
+  },
+  "limitations": "Static public files only. Capture does not execute JavaScript. Computed URLs, import-map directory prefixes/scopes, service workers and client-side routes may need manual fixes. No backend or guaranteed offline/visual fidelity. Unavailable resources keep their original URL."
+}
